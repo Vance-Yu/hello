@@ -1,18 +1,8 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Vance Yu:
+  name        : "Vance Yu (郁万祥)"
+  uri         : ""
+  email       : ""
+  bio         : "M.S. student at Nankai University; incoming Ph.D. student at HKU (2027)."
+  avatar      : "myphoto.jpg"
