@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D., Computer Science, The University of Hong Kong, 2027 (incoming)
-* M.S., Computer Science, Nankai University — advisor: [Prof. Yuzhi Zhang](https://cs.nankai.edu.cn/info/1085/1126.htm)
-* B.S., Computer Science, Nankai University
+* M.Eng., Software Engineering, Nankai University, 2024–2027 — advisor: [Prof. Yuzhi Zhang](https://cs.nankai.edu.cn/info/1085/1126.htm)
+* B.Eng., Software Engineering, Nankai University, 2020–2024
 
 Work experience
 ======
